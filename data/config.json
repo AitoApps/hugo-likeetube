@@ -1,0 +1,16 @@
+{
+  "logo": "iconLikee.png",
+  "logoColored": "iconLikee.png",
+  "name": "LikeeTube",
+  "themeColor": "#000",
+  "appLinks": {
+    "appStore": "https://play.google.com/store/apps/details?id=com.aitoapps.likee_downloader",
+    "playStore": "https://play.google.com/store/apps/details?id=com.aitoapps.likee_downloader"
+  },
+  "social": {
+    "facebook": "https://facebook.com/aitoapps",
+    "twitter": "https://twitter.com/tixboubou",
+    "instagram": "https://instagram.com/aitoapps",
+    "dribbble": "https://dribbble.com/<your_username>"
+  }
+}

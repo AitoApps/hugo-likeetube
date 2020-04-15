@@ -1,0 +1,4 @@
+baseURL = "https://likeetube.com"
+title = "Likee Downloader"
+copyright = "Copyright © 2020, AitoApps"
+theme = "hugo-appyness"

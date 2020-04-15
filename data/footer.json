@@ -1,0 +1,14 @@
+{
+  "text": "© 2020, AitoApps",
+  "logo": "iconLikee.png",
+  "links": [
+    {
+      "text": "Home",
+      "href": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "privacy/"
+    }
+  ]
+}
