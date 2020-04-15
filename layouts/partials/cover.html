@@ -1,6 +1,6 @@
 {{- $cover := .Site.Data.cover -}}
 {{- $config := .Site.Data.config -}}
-<section class="main" style="background-image:url('{{ .Site.BaseURL }}img/{{ $cover.backgroundImage }}')"> 
+<section class="main" style="background-image:url('{{- .Site.BaseURL -}}img/{{ $cover.backgroundImage }}')">
   <div class="container">
     <div>
       <div class="d-flex">
@@ -10,7 +10,7 @@
           <h3>{{- $config.name -}}</h3>
         </span>
       </div>
-      
+
       <h1 class="font-weight-bold">{{- $cover.heading -}}</h1>
       <p>{{- $cover.description -}}</p>
 
@@ -38,4 +38,3 @@
     </div>
   </div>
 </section>
-
